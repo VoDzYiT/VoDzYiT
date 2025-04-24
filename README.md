@@ -7,9 +7,10 @@ I'm passionate about programming and curious how inteliggent systems work.
 ---
 
 # **What you’ll find here**
-Here I upload different projects — usually from university or personal learning.  
+Here I upload different projects — usually from university or personal learning.
 Right now I have two main repositories:
-[Resolution method](https://github.com/VoDzYiT/ResolutionMethod)
+
+[Resolution method project](https://github.com/VoDzYiT/ResolutionMethod)
 A project where I implemented the resolution method from logic programming using Python.
 
 [Machine learning course](https://github.com/VoDzYiT/machine-learning-course)
