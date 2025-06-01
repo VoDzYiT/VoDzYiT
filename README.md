@@ -10,6 +10,9 @@ I'm passionate about programming and curious how inteliggent systems work.
 Here I upload different projects — usually from university or personal learning.
 Right now I have two main repositories:
 
+[Web Marketing Analysis](github.com/VoDzYiT/web-marketing-analysis)
+A project where I explore customer behavior, sales trends, retention, cohort analysis, segmentation, and more using e-commerce data
+
 [Resolution method project](https://github.com/VoDzYiT/ResolutionMethod)
 A project where I implemented the resolution method from logic programming using Python.
 
