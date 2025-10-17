@@ -1,14 +1,13 @@
 # Hello 👋
 My name is Volodymyr Zhytelnyi
 
-I'm a Computer Science student currently living in Wrocław and studying at DSW and KPI.
-I'm passionate about programming and curious how inteliggent systems work.
+I'm a Computer Science student
+I'm passionate about programming and curious how inteliggent systems work
 
 ---
 
-# **What you’ll find here**
+# **What you’ll find here 🤔**
 Here I upload different projects — usually from university or personal learning.
-Right now I have two main repositories:
 
 [Web Marketing Analysis](https://github.com/VoDzYiT/web-marketing-analysis)
 A project where I explore customer behavior, sales trends, retention, cohort analysis, segmentation, and more using e-commerce data
@@ -21,7 +20,7 @@ This repo includes my practical work while exploring basic ML topics.
 
 ---
 
-### **Tools**
+### **Tools ⛏️**
 In these repositories, I mostly used:  
 - **Python** (my main language)  
 - Various libraries such as **Pandas**, **Scikit-learn**, **Matplotlib**, and **TensorFlow**
